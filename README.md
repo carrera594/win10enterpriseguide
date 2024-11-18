@@ -1,5 +1,5 @@
 # Windows 10 Enterprise LTSC Install Guide
-<img align="right" width="300" height="300" src="https://files.catbox.moe/dutpxu.webp">
+Credit goes to original author [nadeoki](https://github.com/nadeoki/win10enterpriseguide)
 
 > A guide to installing Windows 10 Enterprise on a Boot Drive
 
@@ -39,7 +39,7 @@ Use MAS Tool from the Download or copy-paste the
 following text into
 Powershell. 
 
-``irm https://massgrave.dev/get | iex``
+``irm https://get.activated.win | iex``
 
 Once opened, Select "1". It should be
 activating Windows License for Windows Enterprise.
