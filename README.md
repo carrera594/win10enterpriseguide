@@ -13,7 +13,7 @@ It's primarily used in bigger companies (as the name suggests) which rely on it'
 
 - [Rufus](https://rufus.ie/en/)
 - [USB 8gb+](https://amzn.eu/d/483SMH7)
-- [Windows10Enterprise ISO](https://rentry.co/notwindows)
+- [Windows10Enterprise ISO](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise)
 - [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip) (Microsoft Activation Tool)
 
 ### Windows Setup. 
